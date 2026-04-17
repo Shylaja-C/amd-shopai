@@ -1,0 +1,892 @@
+[
+  {
+    "id": 1,
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 3500,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics101/400/400",
+    "rating": 4.8,
+    "tag": "Best Value"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch Ultra",
+    "price": 4500,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics102/400/400",
+    "rating": 4.5,
+    "tag": "Trending"
+  },
+  {
+    "id": 3,
+    "name": "Pro Running Shoes",
+    "price": 1500,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness103/400/400",
+    "rating": 4.6,
+    "tag": "AI Pick"
+  },
+  {
+    "id": 4,
+    "name": "Casual Denim Jacket",
+    "price": 2500,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion104/400/400",
+    "rating": 4.6,
+    "tag": "Best Value"
+  },
+  {
+    "id": 5,
+    "name": "Premium Gym Duffel Bag",
+    "price": 1000,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness105/400/400",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker JBL",
+    "price": 1800,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics106/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "name": "Insulated Water Bottle",
+    "price": 400,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness107/400/400",
+    "rating": 4.8,
+    "tag": "Trending"
+  },
+  {
+    "id": 8,
+    "name": "Organic Green Tea Pack",
+    "price": 300,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries108/400/400",
+    "rating": 4.7,
+    "tag": "Best Value"
+  },
+  {
+    "id": 9,
+    "name": "Wireless Earbuds Pro",
+    "price": 2200,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics109/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 10,
+    "name": "Mechanical Keyboard RGB",
+    "price": 3200,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics110/400/400",
+    "rating": 4.7,
+    "tag": "Trending"
+  },
+  {
+    "id": 11,
+    "name": "USB-C Hub 7-in-1",
+    "price": 1200,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics111/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 12,
+    "name": "Portable Power Bank 20000mAh",
+    "price": 1500,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics112/400/400",
+    "rating": 4.5,
+    "tag": "Best Value"
+  },
+  {
+    "id": 13,
+    "name": "Webcam 4K Ultra HD",
+    "price": 2800,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics113/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 14,
+    "name": "Gaming Mouse Wireless",
+    "price": 1800,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics114/400/400",
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "name": "Laptop Stand Aluminium",
+    "price": 900,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics115/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 16,
+    "name": "Smart LED Desk Lamp",
+    "price": 1100,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics116/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 17,
+    "name": "Noise Cancelling Buds",
+    "price": 3800,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics117/400/400",
+    "rating": 4.9,
+    "tag": "AI Pick"
+  },
+  {
+    "id": 18,
+    "name": "Digital Drawing Tablet",
+    "price": 4200,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics118/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 19,
+    "name": "Smart Plug Wi-Fi",
+    "price": 500,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics119/400/400",
+    "rating": 4.1
+  },
+  {
+    "id": 20,
+    "name": "Mini Projector HD",
+    "price": 4800,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics120/400/400",
+    "rating": 4.4,
+    "tag": "Trending"
+  },
+  {
+    "id": 21,
+    "name": "Men's Slim Fit Chinos",
+    "price": 1200,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion121/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 22,
+    "name": "Women's Floral Dress",
+    "price": 1800,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion122/400/400",
+    "rating": 4.5,
+    "tag": "Trending"
+  },
+  {
+    "id": 23,
+    "name": "Leather Belt Premium",
+    "price": 700,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion123/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 24,
+    "name": "Cotton Polo T-Shirt",
+    "price": 600,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion124/400/400",
+    "rating": 4.4,
+    "tag": "Best Value"
+  },
+  {
+    "id": 25,
+    "name": "Aviator Sunglasses",
+    "price": 900,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion125/400/400",
+    "rating": 4.6
+  },
+  {
+    "id": 26,
+    "name": "Canvas Sneakers",
+    "price": 1100,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion126/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 27,
+    "name": "Woolen Scarf",
+    "price": 500,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion127/400/400",
+    "rating": 4.1
+  },
+  {
+    "id": 28,
+    "name": "Formal Blazer Slim",
+    "price": 3500,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion128/400/400",
+    "rating": 4.7,
+    "tag": "AI Pick"
+  },
+  {
+    "id": 29,
+    "name": "Printed Hoodie",
+    "price": 1400,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion129/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 30,
+    "name": "Leather Wallet",
+    "price": 800,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion130/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 31,
+    "name": "Linen Kurta Men",
+    "price": 1000,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion131/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 32,
+    "name": "Sports Bra High Impact",
+    "price": 600,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion132/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 33,
+    "name": "Yoga Mat Premium",
+    "price": 800,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness133/400/400",
+    "rating": 4.6,
+    "tag": "Best Value"
+  },
+  {
+    "id": 34,
+    "name": "Resistance Bands Set",
+    "price": 500,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness134/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 35,
+    "name": "Adjustable Dumbbells",
+    "price": 2500,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness135/400/400",
+    "rating": 4.8,
+    "tag": "Trending"
+  },
+  {
+    "id": 36,
+    "name": "Jump Rope Speed",
+    "price": 300,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness136/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 37,
+    "name": "Foam Roller Recovery",
+    "price": 600,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness137/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 38,
+    "name": "Gym Gloves Leather",
+    "price": 400,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness138/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 39,
+    "name": "Fitness Tracker Band",
+    "price": 1800,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness139/400/400",
+    "rating": 4.6,
+    "tag": "AI Pick"
+  },
+  {
+    "id": 40,
+    "name": "Whey Protein 1kg",
+    "price": 1500,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness140/400/400",
+    "rating": 4.7
+  },
+  {
+    "id": 41,
+    "name": "Kettlebell 12kg",
+    "price": 1200,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness141/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 42,
+    "name": "Ab Roller Wheel",
+    "price": 350,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness142/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 43,
+    "name": "Sports Headband Set",
+    "price": 200,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness143/400/400",
+    "rating": 4.1
+  },
+  {
+    "id": 44,
+    "name": "Organic Almonds 1kg",
+    "price": 800,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries144/400/400",
+    "rating": 4.9,
+    "tag": "AI Pick"
+  },
+  {
+    "id": 45,
+    "name": "Basmati Rice 5kg",
+    "price": 450,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries145/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 46,
+    "name": "Cold Pressed Olive Oil",
+    "price": 600,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries146/400/400",
+    "rating": 4.6,
+    "tag": "Best Value"
+  },
+  {
+    "id": 47,
+    "name": "Dark Chocolate 72%",
+    "price": 250,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries147/400/400",
+    "rating": 4.7
+  },
+  {
+    "id": 48,
+    "name": "Honey Raw Organic",
+    "price": 400,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries148/400/400",
+    "rating": 4.8,
+    "tag": "Trending"
+  },
+  {
+    "id": 49,
+    "name": "Peanut Butter Natural",
+    "price": 300,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries149/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 50,
+    "name": "Quinoa Organic 500g",
+    "price": 350,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries150/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 51,
+    "name": "Chia Seeds 250g",
+    "price": 200,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries151/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 52,
+    "name": "Oats Steel Cut 1kg",
+    "price": 280,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries152/400/400",
+    "rating": 4.6
+  },
+  {
+    "id": 53,
+    "name": "Mixed Nuts Trail Pack",
+    "price": 500,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries153/400/400",
+    "rating": 4.7,
+    "tag": "Best Value"
+  },
+  {
+    "id": 54,
+    "name": "Coconut Oil Virgin",
+    "price": 350,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries154/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 55,
+    "name": "Flax Seeds 500g",
+    "price": 180,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries155/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 56,
+    "name": "Apple Cider Vinegar",
+    "price": 300,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries156/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 57,
+    "name": "Turmeric Powder Organic",
+    "price": 150,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries157/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 58,
+    "name": "Green Coffee Beans",
+    "price": 450,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries158/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 59,
+    "name": "Wireless Charging Pad",
+    "price": 800,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics159/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 60,
+    "name": "Smart Light Bulb RGB",
+    "price": 400,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics160/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 61,
+    "name": "Tablet Stand Adjustable",
+    "price": 600,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics161/400/400",
+    "rating": 4.1
+  },
+  {
+    "id": 62,
+    "name": "HDMI Cable 4K 2m",
+    "price": 300,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics162/400/400",
+    "rating": 4
+  },
+  {
+    "id": 63,
+    "name": "Desk Organizer Bamboo",
+    "price": 700,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics163/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 64,
+    "name": "Streaming Microphone USB",
+    "price": 2200,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics164/400/400",
+    "rating": 4.6,
+    "tag": "AI Pick"
+  },
+  {
+    "id": 65,
+    "name": "Action Camera 4K",
+    "price": 4000,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics165/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 66,
+    "name": "E-Reader 6 inch",
+    "price": 3500,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics166/400/400",
+    "rating": 4.7
+  },
+  {
+    "id": 67,
+    "name": "Women's Crop Top",
+    "price": 400,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion167/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 68,
+    "name": "Men's Jogger Pants",
+    "price": 900,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion168/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 69,
+    "name": "Backpack Urban",
+    "price": 1600,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion169/400/400",
+    "rating": 4.5,
+    "tag": "Trending"
+  },
+  {
+    "id": 70,
+    "name": "Silk Tie Classic",
+    "price": 500,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion170/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 71,
+    "name": "Denim Shorts",
+    "price": 700,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion171/400/400",
+    "rating": 4.1
+  },
+  {
+    "id": 72,
+    "name": "Rain Jacket Waterproof",
+    "price": 2000,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion172/400/400",
+    "rating": 4.6
+  },
+  {
+    "id": 73,
+    "name": "Formal Shirt White",
+    "price": 800,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion173/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 74,
+    "name": "Women's Sandals",
+    "price": 600,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion174/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 75,
+    "name": "Beanie Cap Wool",
+    "price": 300,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion175/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 76,
+    "name": "Pull-up Bar Doorway",
+    "price": 900,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness176/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 77,
+    "name": "Skipping Rope Weighted",
+    "price": 450,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness177/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 78,
+    "name": "Compression Socks",
+    "price": 350,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness178/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 79,
+    "name": "Gym Towel Microfiber",
+    "price": 200,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness179/400/400",
+    "rating": 4.1
+  },
+  {
+    "id": 80,
+    "name": "Wrist Wraps Support",
+    "price": 300,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness180/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 81,
+    "name": "Medicine Ball 5kg",
+    "price": 800,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness181/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 82,
+    "name": "Herbal Tea Sampler",
+    "price": 350,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries182/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 83,
+    "name": "Granola Crunchy Mix",
+    "price": 280,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries183/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 84,
+    "name": "Dried Cranberries 250g",
+    "price": 220,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries184/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 85,
+    "name": "Brown Sugar Organic",
+    "price": 120,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries185/400/400",
+    "rating": 4.1
+  },
+  {
+    "id": 86,
+    "name": "Pasta Whole Wheat",
+    "price": 180,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries186/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 87,
+    "name": "Soy Sauce Premium",
+    "price": 150,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries187/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 88,
+    "name": "Matcha Powder 100g",
+    "price": 500,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries188/400/400",
+    "rating": 4.6,
+    "tag": "Trending"
+  },
+  {
+    "id": 89,
+    "name": "Black Pepper Whole",
+    "price": 100,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries189/400/400",
+    "rating": 4
+  },
+  {
+    "id": 90,
+    "name": "Cashew Nuts 500g",
+    "price": 600,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries190/400/400",
+    "rating": 4.7
+  },
+  {
+    "id": 91,
+    "name": "USB Flash Drive 64GB",
+    "price": 350,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics191/400/400",
+    "rating": 4.1
+  },
+  {
+    "id": 92,
+    "name": "Wireless Mouse Slim",
+    "price": 600,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics192/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 93,
+    "name": "Monitor Light Bar",
+    "price": 1500,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics193/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 94,
+    "name": "Cable Management Kit",
+    "price": 250,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics194/400/400",
+    "rating": 4
+  },
+  {
+    "id": 95,
+    "name": "Ankle Weights 2kg",
+    "price": 500,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness195/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 96,
+    "name": "Yoga Block Set",
+    "price": 350,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness196/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 97,
+    "name": "Men's Running Shorts",
+    "price": 500,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion197/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 98,
+    "name": "Women's Cardigan",
+    "price": 1200,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion198/400/400",
+    "rating": 4.5
+  },
+  {
+    "id": 99,
+    "name": "Sports Cap Breathable",
+    "price": 300,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion199/400/400",
+    "rating": 4.1
+  },
+  {
+    "id": 100,
+    "name": "Pumpkin Seeds 250g",
+    "price": 180,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries200/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 101,
+    "name": "Almond Milk 1L",
+    "price": 250,
+    "category": "groceries",
+    "image": "https://picsum.photos/seed/groceries201/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 102,
+    "name": "Protein Bar Pack x6",
+    "price": 400,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness202/400/400",
+    "rating": 4.5,
+    "tag": "Best Value"
+  },
+  {
+    "id": 103,
+    "name": "Crossfit Gloves",
+    "price": 350,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness203/400/400",
+    "rating": 4.2
+  },
+  {
+    "id": 104,
+    "name": "Smart Scale Digital",
+    "price": 1200,
+    "category": "fitness",
+    "image": "https://picsum.photos/seed/fitness204/400/400",
+    "rating": 4.6,
+    "tag": "Trending"
+  },
+  {
+    "id": 105,
+    "name": "Tote Bag Canvas",
+    "price": 500,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion205/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 106,
+    "name": "Women's Leggings",
+    "price": 700,
+    "category": "fashion",
+    "image": "https://picsum.photos/seed/fashion206/400/400",
+    "rating": 4.4
+  },
+  {
+    "id": 107,
+    "name": "Webcam Ring Light",
+    "price": 800,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics207/400/400",
+    "rating": 4.3
+  },
+  {
+    "id": 108,
+    "name": "Noise Machine Sleep",
+    "price": 1000,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/electronics208/400/400",
+    "rating": 4.5,
+    "tag": "AI Pick"
+  }
+]
